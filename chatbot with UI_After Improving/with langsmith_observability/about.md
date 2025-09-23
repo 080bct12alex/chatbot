@@ -12,8 +12,7 @@ Integrating LangSmith with LangGraph, includes generating and adding an API key 
 - LANGCHAIN_PROJECT='Chatbot Project'
 
    
-- the integration of observability features using LangSmith with LangGraph
-- focusing on tracking user interactions with a chatbot. 
+The integration of observability features using LangSmith with LangGraph focusing on tracking user interactions with a chatbot. 
 
 
 
