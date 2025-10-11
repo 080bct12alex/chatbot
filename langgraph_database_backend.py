@@ -13,7 +13,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 load_dotenv()
 
 # ---------------- LLM Setup ----------------
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.7)
+llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.7)
 
 # ---------------- Chat Node ----------------
 class ChatState(TypedDict):
